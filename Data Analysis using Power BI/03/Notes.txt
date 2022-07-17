@@ -1,0 +1,1 @@
+Day 03 entailed building a dashboard for covid 19. I've always known that Microsoft excel could be used to do an analysis of some magnitude but seems I underestimated it. Microsoft Excel may be one of the most powerful data analysis tools there is (not that I've seen much), but being a No-code solution for data analysis. It's more than impressive!

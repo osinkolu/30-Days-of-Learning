@@ -1,0 +1,5 @@
+Day 05 is about a day in the life of a data analyst. I got to meet(online) Olayinka and Debo. Pros in the data analysis space. It was interesting to find out that their learning path was skewed, and unofficial. They basically picked up interest in the field and pursued.
+
+Olayinka mentioned Stake holder management as a very important skill for data analyst. Communication skill was also highlighted as another important skill to maximize your role as a data analyst.
+
+It's not enough to build beautiful dashboards, rather you have to see things from the perspective of someone who want's to solve problems and answer questions.

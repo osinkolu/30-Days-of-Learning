@@ -1,0 +1,10 @@
+Day 08  was another interesting session hosted on Microsoft Reactor, I basically learned how to load data from different data sources. Microsoft PowerBI has a vast pool of connections it can make to the different data sources.
+
+1. Sample dataset on the PowerBI desktop app
+2. Using local excel files
+3. Using SharePoint list.
+4. From a folder that contains several data tables or spreadsheets.
+5. Directly from the web
+6. Pulling data from a database
+
+After finalizing the session, I did some of the assignment which was to create some visuals from the report. I created some visualizations from the sample financial report. A very basic visual.

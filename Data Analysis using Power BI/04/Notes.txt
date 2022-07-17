@@ -1,0 +1,5 @@
+Day 04 was data visualization at the click of a button. Again I'm still stunned at what these platforms can do (maybe because I'm new to analysis with low-code solutions), but they are really amazing. I didn't even know you could add live dashboards to PowerPoint presentations, It's crazy!
+
+I was able to set up PowerBI online and locally, I also tested out the Teams data analysis. All these are done without really doing anything, the data already lives there and the BI tool can scramble the data and generate insights without doing anything at all.
+
+It even has NLP tools to generate dashboards via questions The "Power" in the "PowerBI" is no joke. Much respect to the creators of this tool.

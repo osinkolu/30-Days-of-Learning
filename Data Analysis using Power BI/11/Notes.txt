@@ -1,0 +1,16 @@
+Day 11 is about DAX, more like a continuation of day 10's engagement. DAX is a language developed by Microsoft which contains a library of functions and operations.
+
+One of the best use case is to do custom calculations in PowerBI. We created a custom column by multiplying 2 columns together.Asides creating new columns, DAX can also be used to create new tables.
+
+Some of the DAX functions we tried out are:
+
+1. Related
+2. Calendarauto
+3. Filter
+4. Sumx
+5. Calculate
+6. Previous month
+
+Whilst creating the visuals, I was able to understand the need to use measures rather than editing the data itself. Measures are powered by the filter context and the filtering capabilities enable you to do more and toggle the whole report faster than doing a filter from one of the visualization.
+
+There are tons of functions in DAX, and sometimes the expressions get confusing, nevertheless, I had to follow very closely to get the full understanding.

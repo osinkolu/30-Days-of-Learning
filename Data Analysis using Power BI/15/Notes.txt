@@ -1,0 +1,13 @@
+Day 15 started off with another momentum, Data storytelling with PowerBI, I spoke with a friend much recently that I hadn't worked with the Twitter API before or scrapped anything from Twitter. This was my chance! I was able to pull data from Twitter and use it for analysis.
+
+Paul Nnakwe took the session on Data Storytelling with PowerBI, he gave very intelligent tips on colors in PowerBI dashboards. some of them I'll list below.
+
+1. Use Brand colors
+2. Limit the Dominant colors to 2
+3. Use colors purposefully
+4. Create accessible color schemes and test
+5. If confused, use grayscales first.
+
+He talked about Fonts, Size, and exploring beyond the defaults.
+
+After the session, Paul created another ~2 hours of learning content on the PowerBI storytelling dashboard where we were able to do a deep dive: hands-on tweet analysis for the #30daysoflearning.

@@ -1,0 +1,10 @@
+Day 10 introduces us to the world of Data Modelling using Data Analysis Expression(DAX). A power-packed session by Ahmed Oyelowo
+
+We did a theoretical overview of the types of data and the modeling then dived into the hands-on aspect where we looked into the super_store dataset. The dataset had 2 forms, normalized data, and denormalized data. To build the PowerBI dashboard, we loaded the normalized data with all the data segments on different file sheets. We were also introduced to relationships in PowerBI and how we could leverage them to create relationships between different datasets in PowerBI. We attempted to create reports on:
+
+1. sales by region
+2. sales by the manager
+
+many times, there are redundant columns in your data and there's no need to keep all these data duplicated, instead, we split the data into fact tables (continuous tables), and dimensions (static tables).
+
+We also talked about the cardinality of relationships, one of the most popular is the "one-to-many". There was a clear understanding of how these relationships actually work under the hood.

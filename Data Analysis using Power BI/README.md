@@ -62,3 +62,63 @@ After finalizing the session, I did some of the assignment📝 which was to crea
 ## Day 09
 
 For day 09 session 📆9️⃣, I was able to learn from one of the modules 🧰 on the Microsoft learn portal, The module focused on power query with PowerBI, and how to clean🧹, transform and load 🔃 data in PowerBI. After the learning session there, I worked on the assignment🗒️ on analyzing data from the web, the data comprises best and worst states to retire in the U.S. I found the data very interesting and was able to do some beautiful visuals on it.📊
+
+## Day 10
+
+Day 10 introduces us to the world of Data Modelling using Data Analysis Expression(DAX) 🛠️. A power-packed session by Ahmed Oyelowo 👨‍💻
+
+We did a theoretical overview on the types of data and modeling 📈 then dived into the hands-on aspect 💪 where we looked into the super_store dataset. The dataset had 2 forms, normalized data, and denormalized data. To build the PowerBI dashboard📊, we loaded the normalized data with all the data segments on different file sheets🗒️. We were also introduced to relationships in PowerBI and how we could leverage them to create relationships 🤝 between different datasets in PowerBI. We attempted to create reports on:
+
+1. sales by region 
+2. sales by the manager
+
+many times, there are redundant columns in your data and there's no need to keep all these data duplicated 🥚🥚, instead, we split the data into fact tables (continuous tables), and dimensions (static tables).
+
+We also talked about the cardinality of relationships, one of the most popular is the "one-to-many" 🖇️. There was a clear understanding of how these relationships actually work under the hood.
+
+## Day 11
+
+Day 11 is about DAX, more like a continuation of day 10's 🔟 engagement. DAX is a language developed by Microsoft which contains a library of functions and operations.⚒️
+
+One of the best use cases is to do custom calculations🧮 in PowerBI. We created a custom column by multiplying 2 columns together❎. Asides from creating new columns, DAX can also be used to create new tables.
+
+Some of the DAX functions we tried out are:
+
+1. Related
+2. Calendarauto
+3. Filter
+4. SumX
+5. Calculate
+6. Previous month
+
+Whilst creating the visuals 📊, I was able to understand the need to use measures 📏 rather than editing the data itself. Measures are powered by the filter 🥅 context and the filtering capabilities enable you to do more and toggle the whole report faster than doing a filter from one of the visualizations.📉
+
+There are tons of functions in DAX, and sometimes the expressions get confusing, 😕 nevertheless, I had to follow very closely to get the full understanding.💫
+
+## Day 12
+
+Unfortunately, the session for this date is still unavailable at the time of writing.
+
+## Day 13
+
+For Day 13, @theoyinbooke🧑‍💻 talked about his journey in Microsoft🪟 and how he was able to grow using Microsoft Technologies. The Microsoft Cloud skill challenge helped him a lot, pulling over 120 badges🎖️ as at the time of writing, and over 25 trophies🏆. Completing the modules on the Microsoft Cloud skill challenge is really cool, and the lessons and challenges are designed in a very engaging manner.
+
+There are labs and practicals 📒 in the modules that test your knowledge as well. The Cloud skill challenge for the 30 days of Learning has a leaderboard where folks compete to finish the challenge first.🥇
+
+## Day 14
+
+Day 14 was a recap of our learning experience🔁 , Some folks were featured who have had an awesome time learning in the past 13 days. One thing I can testify to is that the Microsoft 30 days of Learning is one of the best learning paths I've passed through🤗.
+
+## Day 15
+
+Day 15 started off with another momentum🤘, Data storytelling🗣️ with PowerBI, I spoke with a friend much recently that I hadn't worked with the Twitter🐥API before or scrapped anything from Twitter. This was my chance! I was able to pull data from Twitter and use it for analysis.💹
+
+Paul Nnakwe 🧑‍💻 took the session on Data Storytelling with PowerBI, he gave very intelligent tips on colors🎨 in PowerBI dashboards. some of them I'll list below.
+
+1. Use Brand colors
+2. Limit the Dominant colors to 2
+3. Use colors purposefully
+4. Create accessible color schemes and test
+5. If confused, use grayscales first.
+
+He talked about Fonts, Size, and exploring beyond the defaults. After the session,🤝 Paul created another ~2 hours of learning content 🧑‍🏫 on the PowerBI storytelling dashboard where we were able to do a deep dive: hands-on tweet analysis for the #30daysoflearning.🧑‍🎓

@@ -10,6 +10,12 @@
   - [Day 07](#day-07)
   - [Day 08](#day-08)
   - [Day 09](#day-09)
+  - [Day 10](#day-10)
+  - [Day 11](#day-11)
+  - [Day 12](#day-12)
+  - [Day 13](#day-13)
+  - [Day 14](#day-14)
+  - [Day 15](#day-15)
 
 ## Day 01
 
@@ -122,3 +128,75 @@ Paul Nnakwe 🧑‍💻 took the session on Data Storytelling with PowerBI, he g
 5. If confused, use grayscales first.
 
 He talked about Fonts, Size, and exploring beyond the defaults. After the session,🤝 Paul created another ~2 hours of learning content 🧑‍🏫 on the PowerBI storytelling dashboard where we were able to do a deep dive: hands-on tweet analysis for the #30daysoflearning.🧑‍🎓
+
+## Day 16
+
+Day 16 was another self-paced🤵 learning session with the Microsoft Cloud Skills Challenge🎖️, I took a module on Creating a data-driven story with Power BI reports📊. The module covered most of what paul taught on day 15, and even more.
+
+## Day 17
+
+Day 17 is another awesome content 🗒️ from @theoyinbooke 🤵 with talks centered around using the PowerBI service⚒️. The focus was to push a dashboard to the PowerBI Online service. We built a quick report📊 on the Kaggle cars 🚗dataset and then published it to the PowerBI service. I was also able to understand the difference between a dashboard and a report. 
+
+Finally, we made a quick dashboard by pinning certain visuals to the dashboard.📌
+
+## Day 18
+
+Day 18 was another power-packed 💪session hosted by @theoyinbooke with the discussion 🗣️centered around the data refresh schedule📋 in PowerBI. Talks were centered around direct query🎯 and import method⤴️, these are ways to import data into PowerBI, the import method imports the data and does not refresh automatically🔃, but the DirectQuery method does not import the data, instead, it reads directly from the source.
+
+We also talked about Data Gateway 🚪which helps to make on-premise data available online through a secure tunnel 🕳️in a bid to keep the data visualizations running.🏃‍♂️
+
+## Day 19
+
+We've come a long way 🛣️ and learned a lot in such a short time⌛, Day 19 brought in a pro in the data security field Adewale Yusuf who took us on Row level security🔐 in data analysis. The general idea of what the RLS does is to streamline what you want someone to see👀. For instance, if you'll like to share🤝 a repost for 3 different departments in the organization, you don't need to build 3 different reports,📊📊📊 instead, you'll have to take advantage of the RLS to make this possible with a single report📊. You can access the RLS in PowerBI by clicking on "Modelling">> "Manage roles"
+
+There is also a dynamic RLS 🚴 where you can filter access based on the user's credentials.💳 We were introduced to some more Dax functions:
+
+- Username, UserPrincipalName and lookup value
+
+With this, you can set viewing preferences based on email,📧 etc.
+
+Asides from all these, you can also create a very advanced RLS,⚓ and of course, some of these are what differentiates a beginner🧑‍🎓 from an intermediate🧑‍🏫. Another RLS we used was lookup, where we used the Dax function to check if the user was a manager or not, and provided viewing access based on his level.🔗
+
+## Day 20
+
+Day 20 was generally used to catch🪝 up on the learning content, to cover any skipped days or other things we would love to explore.🏃‍♂️
+
+## Day 21
+
+Day 21 was generally a feedback📢 session on discord, a time to connect with folks, and share overall insight on the journey thus far.🌅
+
+## Day 22
+
+As we Wrapped up the 30 days of learning, participants 🤵were expected to work on a project📑 that would help them demonstrate all the things learned in the course of the program with proper 🧾documentation on GitHub.📌
+
+## Day 23
+
+Day 23 - Capstone project📚
+
+## Day 24
+
+Day 24 - Capstone project📚
+
+## Day 25
+
+Day 25 - Capstone project📚
+
+## Day 26
+
+Day 26 - Capstone project📚
+
+## Day 27
+
+Day 27, and we've approached the end🔚 of the program,🧑‍💻 participants connected with Microsoft Ambassadors 🤵in their various universities. It was a great time to reflect and share the testimonies of the learning experience.🤝
+
+## Day 28
+
+Day 28 was about Catching Up and Sharing what we've learned on twitter and social media.
+
+## Day 29
+
+Day 29 - We updated our profiles📃 and I felt so confident🤵💼 in using PowerBI💹. I'll be doing a lot of analysis and PowerBI reports📊 for fun in times to come, and as the days go by. watch my Twitter space.😜
+
+## Day 30
+
+Graduation!!!!🎓 I'm really excited,😀 whew! now I can cross PowerBI off ☑️ my list and make reports like a Pro!🧑‍💼

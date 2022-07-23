@@ -1,0 +1,3 @@
+Day 18 was another power-packed session hosted by @theoyinbooke with the discussion centered around data refresh schedule in powerBI. Talks were centered around direct query and import method, these are ways to import data into PowerBI, the import method imports the data and does not refresh automatically, but the DirectQuery method does not import the data, instead it reads directly from the source.
+
+We also talked about Data Gateway which helps to make an on-premise data available online through a secure tunnel in a bid to keep the data visualizations running.

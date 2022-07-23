@@ -1,0 +1,3 @@
+Day 17 is another awesome content from @theoyinbooke with talks centered around using the PowerBI service. The focus was to push a dashboard to the PowerBI Online service. We built a quick report on the Kaggle cars dataset and then published it to the PowerBI service. I was also able to understand the difference between a dashboard and a report. 
+
+Finally, we made a quick dashboard by pinning certain visuals to the dashboard.

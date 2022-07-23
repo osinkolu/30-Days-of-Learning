@@ -1,0 +1,10 @@
+We've come a long way and learned a lot in such a short time, Day 19 brought in a pro in the data security field Adewale Yusuf who took us on Row level security in data analysis. The general idea of what the RLS does is to streamline what you want someone to see. For instance, if you'll like to share a repost for 3 different departments in the organization, you don't need to build 3 different reports, instead, you'll have to take advantage of the RLS to make this possible with a single report. You can access the RLS in PowerBI by clicking on "Modelling">> "Manage roles"
+
+There is also a dynamic RLS where you can filter access based on the user's credentials. We were introduced to some more Dax functions:
+
+- Username, UserPrincipalName and lookup value
+
+With this, you can set viewing preferences based on email, etc.
+
+
+Asides from all these, you can also create a very advanced RLS, and of course, some of these are what differentiates a beginner from an intermediate. Another RLS we used was lookup, where we used the Dax function to check if the user was a manager or not, and provided viewing access based on his level.

@@ -1,0 +1,1 @@
+Day 16 was another self-paced learning session with the Microsoft Cloud Skills Challenge, I took a module on Creating a data-driven story with Power BI reports. The module covered most of what paul taught on day 15, and even more.
